@@ -36,11 +36,13 @@ Cette liste n'est ni exhaustive, ni explicative, elle est juste là pour vous do
 - No primitive
 - method size
 - [Object calisthenics](https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf)
+- Functional calisthenics
 - [Baby steps](https://blog.adrianbolboaca.ro/2013/03/taking-baby-steps/)
 - [TCR (test && commit || revert)](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 - [TDD as if you meant it](https://gojko.net/2009/02/27/thought-provoking-tdd-exercise-at-the-software-craftsmanship-conference/)
 - outside-in
 - inside-out
+- Transformation Priority Premise (TPP)
 
 ## Jeux sociaux
 - Pair programming
@@ -59,7 +61,3 @@ Cette liste n'est ni exhaustive, ni explicative, elle est juste là pour vous do
 Il existe différents sites qui font un très bon travail de recensement :
 - http://codingdojo.org/
 - http://kata-log.rocks/
-
-## Livres
-- code retreat sessions
-- coding dojo handbook
