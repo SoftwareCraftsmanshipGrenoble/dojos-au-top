@@ -59,3 +59,7 @@ Cette liste n'est ni exhaustive, ni explicative, elle est juste là pour vous do
 Il existe différents sites qui font un très bon travail de recensement :
 - http://codingdojo.org/
 - http://kata-log.rocks/
+
+## Livres
+- code retreat sessions
+- coding dojo handbook
