@@ -1,6 +1,6 @@
 # Contraintes et jeux sociaux pour des dojos au top !
 
-A MiXiT 2019, nous avons partagé sur les contraintes et les jeux sociaux, et leur intérêt dans une session de coding dojo.
+Dans différentes conférences, nous avons partagé sur les contraintes et les jeux sociaux, et leur intérêt dans une session de coding dojo.
 Nous partageons avec vous une liste avec quelques kata, contraintes et jeux sociaux pour démarrer vos propres sessions de dojo.
 Cette liste n'est ni exhaustive, ni explicative, elle est juste là pour vous donner de l'inspiration et attiser votre curiosité.
 
